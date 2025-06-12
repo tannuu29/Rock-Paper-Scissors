@@ -16,5 +16,5 @@ A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, a
 - 📊 Live score updates
 
 ## 🖥️ Live Demo
-[Click here to play the game](https://github.com/tannuu29/Rock-Paper-Scissors.git)
+[Click here to play the game](https://tannuu29.github.io/Rock-Paper-Scissors/)
   
